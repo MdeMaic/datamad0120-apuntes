@@ -1,0 +1,6 @@
+cartoframes==1.0.0
+geopandas==0.6.2
+mercantile==1.1.2
+pyproj==2.4.2.post1
+shap==0.29.3
+Shapely==1.7.0
